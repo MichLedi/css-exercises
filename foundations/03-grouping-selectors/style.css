@@ -1,0 +1,13 @@
+.Michelle{
+background-color: black;
+color: white;
+}
+
+.Naledi{
+background-color: yellow;
+}
+
+.Michelle.Naledi{
+font-size: 28px;
+font-family: Helvetica, Times New Roman, sans-serif;
+}
